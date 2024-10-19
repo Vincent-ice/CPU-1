@@ -1,4 +1,4 @@
-module judge3(
+module judge3(          //当多数人同意时输出1
     input a,b,c,
     output out
 );
