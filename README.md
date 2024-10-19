@@ -3,6 +3,7 @@
 ## 学习verilog的基本语法
 
 - [Verilog 基础知识 (loongson-neuq.pages.dev)](https://loongson-neuq.pages.dev/p/verilog-基础知识/)
+- [一个verilog刷题网站（HDLBits）](https://hdlbits.01xz.net/wiki/Main_Page)
 - 其它互联网资源
 
 ## 学习FPGA开发基本流程
